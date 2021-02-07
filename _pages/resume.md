@@ -3,7 +3,7 @@ permalink: /resume/
 title: "Resume"
 ---
 
-
+---
 # Experience:
 
 ### <span style="color:DodgerBlue">Systems Engineer</span>. / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span>.
