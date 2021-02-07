@@ -1,7 +1,6 @@
 ---
 permalink: /resume/
 title: "Resume"
----
 
 <div style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;border:none;border-top:solid #A6A6A6 1.0pt;padding:3.0pt 0in 0in 0in;'>
     <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Experience</span></h1>
@@ -12,7 +11,6 @@ title: "Resume"
     <summary></summary>
     <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;margin-bottom:6.0pt;'><strong>Summary:&nbsp;</strong>Lead a team of developers in creating  a novel self-contained Heads Up Display unit. Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. Interfaced with inertial navigation sensors over serial communications and assisted in front-end development of symbology, XPlane SDK integration for real time testing and debugging of complex systems.<br><strong>Skills Developed:&nbsp;</strong>System Architecture Design, Hardware Interfacing (wrote Serial Communications Toolbox), Algorithm Development for physics models and complex position transformations.</p>
 </details>
----
 
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">December 2019 &ndash; Present</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;text-align:justify;line-height:115%;'>Undergraduate Researcher / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">University of Utah Robotic Systems Lab</span></strong></em></h2>
@@ -20,20 +18,31 @@ title: "Resume"
     <summary></summary>
     <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;margin-bottom:6.0pt;'><strong>Summary:&nbsp;</strong>Research Experience for Undergraduates (REU) program. Focused on development of the Smart Helmet project with the goal of reducing traumatic brain injury through active control of absorbing &ldquo;bladders&rdquo; utilizing embedded sensors and electronics. Lead a team in researching optimization of 3D magnetic position sensors and wrote a paper submitted (waiting on acceptance) to the Robotics and Automation Letters as well as the ICRA conference. Currently leading development of the next generation embedded controllers, including firmware development, circuit and PCB design, and data processing.<br><strong>Skills Developed:&nbsp;</strong>Utilized machine learning to develop and validate regression fit problems, Embedded System Design and Implementation on real time hardware, Firmware Development on PIC and Arduino architecture, Practical testing and test bench development, Signal processing.</p>
 </details>
----
 
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">May 2017 &ndash; January 2020</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>IT Technician / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Apogee Worx LLC</span></strong></em></h2>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;margin-bottom:6.0pt;'><strong>Summary:&nbsp;</strong>Created cybersecurity policy for company workflow to gain NIST 800-191 and DFARs compliance. Proposed a company-wide system architecture for networking, workstations, and physical security. Automated workflows using JavaScript and g-suite SDK, saving significant man hours in requisitions and processing.</p>
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">June 2018 &ndash; January 2020</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Engineering Intern / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Trident Sensing LLC, Ogden Utah</span></strong></em></h2>
-<p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Summary:&nbsp;</strong>Assisted in creating embedded system hardware and software for data aggregation of thermal image data for fire mapping applications. Worked in python to communicate with FLiR Lepton modules over SPI and I2C. Parsed GPS NMEA packets in java and used predictive models to interpolate between data points. Designed and manufactured 3D printed housings for sensing prototypes in Solidworks.</p>
+<details>
+    <summary></summary>
+    <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Summary:&nbsp;</strong>Assisted in creating embedded system hardware and software for data aggregation of thermal image data for fire mapping applications. Worked in python to communicate with FLiR Lepton modules over SPI and I2C. Parsed GPS NMEA packets in java and used predictive models to interpolate between data points. Designed and manufactured 3D printed housings for sensing prototypes in Solidworks.</p>
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;margin-top:6.0pt;'><span style="color:#3D91E5;">August 2019 &ndash; January 2020</span></h3>
+</details>
+
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Sandia Labs Engineering Clinic / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Sandia Labs / University of Utah</span></strong></em></h2>
-<p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Summary:&nbsp;</strong>Assisted in creating and evaluating anti-aliasing filter designs for accelerometer data capture in embedded systems. Simulated filter designs in python and Spice. Evaluated prototype frequency response, power draw, and signal distortion using lab test bench equipment.</p>
+<details>
+    <summary></summary>
+    <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Summary:&nbsp;</strong>Assisted in creating and evaluating anti-aliasing filter designs for accelerometer data capture in embedded systems. Simulated filter designs in python and Spice. Evaluated prototype frequency response, power draw, and signal distortion using lab test bench equipment.</p>
+</details>
+
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;margin-top:6.0pt;'><span style="color:#3D91E5;">June 2016 &ndash; August 2017</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Chemical Engineering Intern / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">University of Utah</span></strong></em></h2>
-<p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'>Project and outreach member of AirQ&amp;U. Evaluated air quality sensor accuracy using calibrated lab equipment. Assisted in MATLAB development for aggregating air quality data. Lead a team to develop printed circuit boards and firmware for an award-winning high school outreach module. First acknowledgements on two published papers.</p>
+<details>
+    <summary></summary>
+    <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'>Project and outreach member of AirQ&amp;U. Evaluated air quality sensor accuracy using calibrated lab equipment. Assisted in MATLAB development for aggregating air quality data. Lead a team to develop printed circuit boards and firmware for an award-winning high school outreach module. First acknowledgements on two published papers.</p>
+</details>
+
 <div style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;border:none;border-top:solid #A6A6A6 1.0pt;padding:3.0pt 0in 0in 0in;'>
     <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Education</span></h1>
 </div>
