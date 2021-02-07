@@ -21,7 +21,11 @@ title: "Resume"
 
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">May 2017 &ndash; January 2020</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>IT Technician / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Apogee Worx LLC</span></strong></em></h2>
-<p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;margin-bottom:6.0pt;'><strong>Summary:&nbsp;</strong>Created cybersecurity policy for company workflow to gain NIST 800-191 and DFARs compliance. Proposed a company-wide system architecture for networking, workstations, and physical security. Automated workflows using JavaScript and g-suite SDK, saving significant man hours in requisitions and processing.</p>
+<details>
+    <summary></summary>
+    <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;margin-bottom:6.0pt;'><strong>Summary:&nbsp;</strong>Created cybersecurity policy for company workflow to gain NIST 800-191 and DFARs compliance. Proposed a company-wide system architecture for networking, workstations, and physical security. Automated workflows using JavaScript and g-suite SDK, saving significant man hours in requisitions and processing.</p>
+</details>
+
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">June 2018 &ndash; January 2020</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Engineering Intern / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Trident Sensing LLC, Ogden Utah</span></strong></em></h2>
 <details>
