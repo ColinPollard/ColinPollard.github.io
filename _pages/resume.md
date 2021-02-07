@@ -4,7 +4,7 @@ title: "Resume"
 ---
 
 <div style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;border:none;border-top:solid #A6A6A6 1.0pt;padding:3.0pt 0in 0in 0in;'>
-    <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:24px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Experience</span></h1>
+    <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Experience</span></h1>
 </div>
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">January 2020 &ndash; Present</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Systems Engineer / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Trident Sensing LLC, Ogden Utah</span></strong></em></h2>
@@ -25,7 +25,7 @@ title: "Resume"
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Chemical Engineering Intern / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">University of Utah</span></strong></em></h2>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'>Project and outreach member of AirQ&amp;U. Evaluated air quality sensor accuracy using calibrated lab equipment. Assisted in MATLAB development for aggregating air quality data. Lead a team to develop printed circuit boards and firmware for an award-winning high school outreach module. First acknowledgements on two published papers.</p>
 <div style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;border:none;border-top:solid #A6A6A6 1.0pt;padding:3.0pt 0in 0in 0in;'>
-    <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:24px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Education</span></h1>
+    <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Education</span></h1>
 </div>
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">In Progress - May 2022</span></h3>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;'>Double Major: BS Electrical Engineering, BS Computer Engineering/ <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">University of Utah, Salt Lake City, Utah</span></strong></em></h2>
@@ -39,7 +39,7 @@ title: "Resume"
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'>Utah Science and Engineering Fair &ndash; 1<sup>st</sup> in category. Captain of First Robotics Team 3243. Technology Student Association national finalist in system control. Robotics scholarship, Humanities student of 2018. High School Utah Entrepreneurship Competition (HSUEC) Finalist.</p>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'>&nbsp;</p>
 <div style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;border:none;border-top:solid #A6A6A6 1.0pt;padding:3.0pt 0in 0in 0in;'>
-    <h1 style='margin-top:24.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:24px;font-family:"Rockwell",serif;color:#262626;'>Skills</h1>
+    <h1 style='margin-top:24.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'>Skills</h1>
 </div>
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;'>Software Development:</h2>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Proficient in:&nbsp;</strong>C#, C, C++, Java, Python, MATLAB, Arduino (C++ variant), PIC development, Git version control.</p>
@@ -51,27 +51,3 @@ title: "Resume"
 <h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;'>Manufacturing:</h2>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Experienced with:&nbsp;</strong>3D printing &ndash; extensive experience with building, maintaining, using, and designing parts for additive manufacturing, Laser Cutting, Solidworks proficiency (since 2015) with parts and assemblies, Onshape familiarity, lab experience with micromachining processes &ndash; deposition, etching, evaluation (SEM, thin film characterization, image processing in MATLAB).</p>
 <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;'><strong>Relevant courses:&nbsp;</strong>Micromachining ME EN 5050</p>
-
-
-
-
-
-
-
-
-
-
-
-
----
-# Experience:
-
-<h1> <span style="color:DodgerBlue">Systems Engineer</span> / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span> </h1> 
-<span style="color:DodgerBlue">*January 2020 - Present*</span>.\
-**Summary:** 
-<ul>
-  <li>Lead a team of developers in creating a novel self-contained Heads Up Display unit.</li>
-  <li>Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. </li>
-  <li>Interfaced with inertial navigation sensors over serial communications and assisted in front-end development of symbology, XPlane SDK integration for real time testing and debugging of complex systems.</li>
-</ul>
-**Skills Developed:** System Architecture Design, Hardware Interfacing (wrote Serial Communications Toolbox), Algorithm Development for physics models and complex position transformations.
