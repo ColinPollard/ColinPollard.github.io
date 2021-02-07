@@ -2,13 +2,23 @@
 permalink: /resume/
 title: "Resume"
 ---
-
+<style>
+h1 { 
+    display: block;
+    font-size: 0.9em;
+    margin-top: -1.91em;
+    margin-bottom: -1.91em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+</style>
 ---
 # Experience:
 
-### <span style="color:DodgerBlue">Systems Engineer</span> / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span>
+<h1> <span style="color:DodgerBlue">Systems Engineer</span> / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span> </h1> 
 <span style="color:DodgerBlue">*January 2020 - Present*</span>.\
-**Summary:** \
+**Summary:** 
 <ul>
   <li>Lead a team of developers in creating a novel self-contained Heads Up Display unit.</li>
   <li>Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. </li>
