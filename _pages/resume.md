@@ -7,9 +7,8 @@ title: "Resume"
     <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Experience</span></h1>
 </div>
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">January 2020 &ndash; Present</span></h3>
-<h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Systems Engineer / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Trident Sensing LLC, Ogden Utah</span></strong></em></h2>
 <details>
-    <summary>More</summary>
+    <summary><h2 style='margin-top:0in;margin-right:0in;margin-bottom:2.0pt;margin-left:0in;font-size:21px;font-family:"Rockwell",serif;color:#007FAB;line-height:115%;'>Systems Engineer / <em style="color:#595959;font-weight:normal;font-style:normal;"><strong><span style="color:windowtext;">Trident Sensing LLC, Ogden Utah</span></strong></em></h2></summary>
     <p style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;margin-bottom:6.0pt;'><strong>Summary:&nbsp;</strong>Lead a team of developers in creating  a novel self-contained Heads Up Display unit. Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. Interfaced with inertial navigation sensors over serial communications and assisted in front-end development of symbology, XPlane SDK integration for real time testing and debugging of complex systems.<br><strong>Skills Developed:&nbsp;</strong>System Architecture Design, Hardware Interfacing (wrote Serial Communications Toolbox), Algorithm Development for physics models and complex position transformations.</p>
 </details>
 <h3 style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;font-weight:normal;'><span style="color:#3D91E5;">December 2019 &ndash; Present</span></h3>
