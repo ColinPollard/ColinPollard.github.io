@@ -8,8 +8,10 @@ title: "Resume"
 
 ### <span style="color:DodgerBlue">Systems Engineer</span> / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span>
 <span style="color:DodgerBlue">*January 2020 - Present*</span>.\
-**Summary:** - Lead a team of developers in creating a novel self-contained Heads Up Display unit. 
-- Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. 
-- Interfaced with inertial navigation sensors over serial communications and assisted in front-end development of symbology, XPlane SDK integration for real time testing and debugging of complex systems.
-
+**Summary:** 
+<ul>
+  <li>Lead a team of developers in creating a novel self-contained Heads Up Display unit.</li>
+  <li>Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. </li>
+  <li>Interfaced with inertial navigation sensors over serial communications and assisted in front-end development of symbology, XPlane SDK integration for real time testing and debugging of complex systems.</li>
+</ul>
 **Skills Developed:** System Architecture Design, Hardware Interfacing (wrote Serial Communications Toolbox), Algorithm Development for physics models and complex position transformations.
