@@ -58,10 +58,7 @@ plugins:
 author:
   name   : "Colin Pollard"
   avatar : "/assets/images/Git Profile Picture.PNG"
-  bio    : > Double major in Electrical Engineering and Computer Engineering at the University of Utah. 
-  Researcher at the Robotic Systems Laboratory.
-  Systems engineer at Trident Sensing LLC.
-  
+  bio    : "Double major in Electrical Engineering and Computer Engineering at the University of Utah.\ Researcher at the Robotic Systems Laboratory.\ Systems engineer at Trident Sensing LLC."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
