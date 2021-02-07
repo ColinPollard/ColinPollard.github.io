@@ -3,17 +3,14 @@ permalink: /resume/
 title: "Resume"
 ---
 
-# Colin Pollard
+# Experience:
 
-## Experience:
+### <span style="color:blue">Systems Engineer</span>. / Trident Sensing LLC, Ogden Utah
+<span style="color:blue">*January 2020 - Present*</span>.
 
-### Systems Engineer / Trident Sensing LLC, Ogden Utah
-*January 2020 - Present*
 **Summary:** 
 - Lead a team of developers in creating a novel self-contained Heads Up Display unit. 
 - Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. 
 - Interfaced with inertial navigation sensors over serial communications and assisted in front-end development of symbology, XPlane SDK integration for real time testing and debugging of complex systems.
 
 **Skills Developed:** System Architecture Design, Hardware Interfacing (wrote Serial Communications Toolbox), Algorithm Development for physics models and complex position transformations.
-
-<span style="color:blue">some *blue* text</span>.
