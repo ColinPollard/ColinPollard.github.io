@@ -6,8 +6,8 @@ title: "Resume"
 
 # Experience:
 
-### <span style="color:33C4FF">Systems Engineer</span>. / Trident Sensing LLC, Ogden Utah
-<span style="color:33C4FF">*January 2020 - Present*</span>.
+### <span style="color:DodgerBlue">Systems Engineer</span>. / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span>.
+<span style="color:DodgerBlue">*January 2020 - Present*</span>.
 
 **Summary:** 
 - Lead a team of developers in creating a novel self-contained Heads Up Display unit. 
