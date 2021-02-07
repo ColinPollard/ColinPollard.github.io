@@ -8,7 +8,7 @@ title: "Resume"
 
 ### <span style="color:DodgerBlue">Systems Engineer</span> / <span style="color:DimGray">Trident Sensing LLC, Ogden Utah</span>
 <span style="color:DodgerBlue">*January 2020 - Present*</span>.\
-**Summary:** 
+**Summary:** \
 <ul>
   <li>Lead a team of developers in creating a novel self-contained Heads Up Display unit.</li>
   <li>Designed and implemented algorithms for displaying geo-spacial data and created ballistics models for real time targeting and aiming of simulated weapons in python. </li>
