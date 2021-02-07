@@ -1,6 +1,7 @@
 ---
 permalink: /resume/
 title: "Resume"
+---
 
 <div style='margin:0in;font-size:15px;font-family:"Calibri",sans-serif;color:#595959;border:none;border-top:solid #A6A6A6 1.0pt;padding:3.0pt 0in 0in 0in;'>
     <h1 style='margin-top:12.0pt;margin-right:0in;margin-bottom:6.0pt;margin-left:0in;border:none;padding:0in;font-size:36px;font-family:"Rockwell",serif;color:#262626;'><span style="color:#404040;">Experience</span></h1>
