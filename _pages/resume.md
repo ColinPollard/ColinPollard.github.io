@@ -6,8 +6,8 @@ title: "Resume"
 h1 { 
     display: block;
     font-size: 0.9em;
-    margin-top: -1.91em;
-    margin-bottom: -1.91em;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
