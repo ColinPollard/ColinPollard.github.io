@@ -1,9 +1,9 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Smart Helmet"
+excerpt: "Soft robotics, 3D position sensing, embedded system design, and more!"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/smartHelmetSplash.png
+  teaser: assets/images/SmartHelmetSplash.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
