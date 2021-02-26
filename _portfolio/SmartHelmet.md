@@ -30,8 +30,17 @@ The Smart Helmet project is a research initiative under the University of Utah's
   <li>Soft-Robotic bladders are placed inbetween the headform and headshell</li>
   <li>Each bladder consists of a compressible air chamber and valve to control flow</li>
   <li>A PCB is embedded into the base of each bladder and senses the position of a magnet in the top of the bladder, and the pressure inside the chamber.</li>
+  <li>A machine learning algorithm then fuses the 1D hall effect sensor data to generate a 3D estimation of the bladder state. This then can feed an FEA algorithm to estimate force.</li>
 </ul>
 {% include gallery caption="Helmet Cutaway and Bladder Cutaway" %}
 
 **Position Sensing**
+To obtain an accurate impact estimation on the helmet, each bladder keeps track of the position of its top. This position is useful for mechanical models that can translate this displacement into a force applied on each bladder. With forces known on each bladder, the overall action of the helmet can be determined.
 
+The challenge is how to track this position. In theory, rangefinders such as ultrasonic or infra-red should do the job with simplicity, but in practice we found both of these methods too innacurate when embedded in the bladder base. We decided to try a less conventional method: 3D hall effect sensing.
+
+The theory of operation is simple, a magnet is attached to the top of each bladder. An array of 1D hall effect sensors sense the strength of the magnet at different locations along the plane of the circuit board. As the magnet moves laterally, the strength increases on some sensors, and decreases on others. This information is sent to a neural network that has a model of the system, and outputs a 3D position.
+
+**3D Hall Sensing Optimization**
+Our Contribution: The magnetic model of these systems is difficult to model, and as such we utilized a machine learning algorithm to abstract away the need for a closed-form solution. The new challenge is how to optimize these sensors to get the best accuracy for a given set of electronics and space. No solution that we could find tackled this challenge, and so we wrote a paper that proposes a simulation-based technique.
+<embed src="https://github.com/ColinPollard/colinpollard.github.io/blob/master/assets/documents/MagneticSensorDesign.pdf" type="application/pdf" />
