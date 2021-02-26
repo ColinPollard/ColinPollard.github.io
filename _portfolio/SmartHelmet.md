@@ -2,7 +2,7 @@
 title: "Smart Helmet"
 excerpt: "Soft robotics, 3D position sensing, embedded system design, and more!"
 header:
-  image: /assets/images/SmartHelmetSplash.png
+  image: /assets/images/SmartHelmetSplash111.png
   teaser: /assets/images/SmartHelmetSplash.png
 sidebar:
   - title: "Category"
