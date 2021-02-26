@@ -47,11 +47,18 @@ The theory of operation is simple, a magnet is attached to the top of each bladd
 Our Contribution: The magnetic model of these systems is difficult to model, and as such we utilized a machine learning algorithm to abstract away the need for a closed-form solution. The new challenge is how to optimize these sensors to get the best accuracy for a given set of electronics and space. No solution that we could find tackled this challenge, and so we wrote a paper that proposes a simulation-based technique.
 <embed src="https://colinpollard.github.io/assets/documents/MagneticSensorDesign.pdf" type="application/pdf" />
 
-**Milestone 1**
+---
+
+**EE Milestone 1**
 
 For the electrical engineering portion of the project, milestone 1 included the designing of test circuit boards for the hall sensor optimization work, and the final paper submission as shown above. To see a presentation on these achievements, see the video below.
 {% include video id="1lQNf4N3cmvqgF3hfYe3n_PgAVe_DiI3s" provider="google-drive" %}
 
-**Milestone 2**
+---
 
+**EE Milestone 2**
 
+Milestone 2 focused on developing hardware for integration testing in bladders. By comparison, milestone 1 was conducted almost exclusively on a test bench instead of in silicon. To see a presentation on these achievements, see the video below.
+{% include video id="18uq8ojcPun5G4g7FRRtoVEBBCKdGsw3q" provider="google-drive" %}
+
+---
