@@ -5,12 +5,12 @@ header:
   image: /assets/images/smartHelmetSplash.png
   teaser: assets/images/SmartHelmetSplash.png
 sidebar:
-  - title: "Role"
+  - title: "Category"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "NSF REU Research Project, Senior EE and CE Thesis."
+  - title: "Project Members"
+    text: "Colin Pollard, Dr. Mark Minor, Jon Aston, Takara Troung, Ebsa Eshete."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
