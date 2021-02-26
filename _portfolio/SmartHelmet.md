@@ -1,5 +1,6 @@
 ---
 title: "Smart Helmet"
+classes: wide
 excerpt: "Soft robotics, 3D position sensing, embedded system design, and more!"
 header:
   teaser: /assets/images/SmartHelmetSplash.png
