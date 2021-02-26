@@ -45,4 +45,4 @@ The theory of operation is simple, a magnet is attached to the top of each bladd
 **3D Hall Sensing Optimization**
 
 Our Contribution: The magnetic model of these systems is difficult to model, and as such we utilized a machine learning algorithm to abstract away the need for a closed-form solution. The new challenge is how to optimize these sensors to get the best accuracy for a given set of electronics and space. No solution that we could find tackled this challenge, and so we wrote a paper that proposes a simulation-based technique.
-<embed src="https://github.com/ColinPollard/colinpollard.github.io/assets/documents/MagneticSensorDesign.pdf" type="application/pdf" />
+<embed src="https://https://colinpollard.github.io/assets/documents/MagneticSensorDesign.pdf" type="application/pdf" />
