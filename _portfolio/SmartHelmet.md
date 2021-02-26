@@ -11,6 +11,8 @@ sidebar:
     text: "NSF REU Research Project, Senior EE and CE Thesis."
   - title: "Project Members"
     text: "Colin Pollard, Dr. Mark Minor, Jon Aston, Takara Troung, Ebsa Eshete."
+  - title: "Skills Utilized"
+    text: "Original Research, Technical Writing, Embedded System Design, Mechanical Design, 3D Printing, PCB Design.
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,7 +25,8 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+**Project Overview**
+The Smart Helmet project is a research initiative under the University of Utah's Robotic Systems Lab. The goal of the project is to reduce the risk of traumatic brain injury (TBI) by building novel, soft-robotic helmets. By replacing the impact-absorbant foam or plastic in a traditional helmet with compressible, robotic bladders, the impact can be intelligently distributed on the headform in the least damaging way possible. My primary contribution to the project concerns embedding electronics into these bladders that can in real time sense impacts, and trigger solenoid valves to either vent or pressurize the air chamber. It turns out that this system is extremely challenging to design, as the space constraints are quite small, and the environment inside the bladder requires some clever sensing techniques to operate correctly.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
