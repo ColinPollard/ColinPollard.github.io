@@ -18,7 +18,7 @@ gallery:
     image_path: assets/images/HelmetCutaway.png
     alt: "Helmet Cutaway"
   - url: /assets/images/BladderCutaway.png
-    image_path: assets/BladderCutaway.png
+    image_path: assets/images/BladderCutaway.png
     alt: "Bladder Cutaway"
 ---
 
@@ -26,6 +26,13 @@ gallery:
 The Smart Helmet project is a research initiative under the University of Utah's Robotic Systems Lab. The goal of the project is to reduce the risk of traumatic brain injury (TBI) by building novel, soft-robotic helmets. By replacing the impact-absorbant foam or plastic in a traditional helmet with compressible, robotic bladders, the impact can be intelligently distributed on the headform in the least damaging way possible. My primary contribution to the project concerns embedding electronics into these bladders that can in real time sense impacts, and trigger solenoid valves to either vent or pressurize the air chamber. It turns out that this system is extremely challenging to design, as the space constraints are quite small, and the environment inside the bladder requires some clever sensing techniques to operate correctly.
 
 **Helmet Design**
-{% include gallery caption="Helmet Cutaway and Bladder Cutaway." %}
+{% include gallery caption="Helmet Cutaway and Bladder Cutaway" %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+<ul>
+  <li>Soft-Robotic bladders are placed inbetween the headform and headshell</li>
+  <li>Each bladder consists of a compressible air chamber and valve to control flow</li>
+  <li>A PCB is embedded into the base of each bladder and senses the position of a magnet in the top of the bladder, and the pressure inside the chamber.</li>
+</ul>
+
+**Position Sensing**
+
