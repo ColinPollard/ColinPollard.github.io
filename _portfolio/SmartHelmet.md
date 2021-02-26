@@ -82,7 +82,7 @@ Milestone 2 focused on developing hardware for integration testing in bladders. 
 
 **Team Member Roles**
 
-- Dr. Mark Minor: Project Director, Robotic Systems Lab Director
+- Dr. Mark Minor: Project Director, Robotic Systems Lab Director, Advisor
 - Jon Aston: Graduate Student head of project
 - Ebsa Eshete: Undergraduate Research Assistant
 - Takara Troung: Undergraduate Research Assistant / Project Alumnus
