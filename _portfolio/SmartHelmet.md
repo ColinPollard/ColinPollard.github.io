@@ -62,3 +62,18 @@ Milestone 2 focused on developing hardware for integration testing in bladders. 
 {% include video id="18uq8ojcPun5G4g7FRRtoVEBBCKdGsw3q" provider="google-drive" %}
 
 ---
+
+**Next Steps & Timetable**
+
+- February to March '21: Assemble and test embedded sensor test bed
+- April to May '21: Evaluate accuracy of embedded system, estimate forces using FEA in real time
+- Summer '21: Design final hardware with MCU system in bladder
+
+---
+
+**Team Member Roles**
+
+- Dr. Mark Minor: Project Director, Robotic Systems Lab Director
+- Jon Aston: Graduate Student head of project
+- Ebsa Eshete: Undergraduate Research Assistant
+- Takara Troung: Undergraduate Research Assistant / Project Alumnus
