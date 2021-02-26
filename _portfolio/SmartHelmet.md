@@ -12,7 +12,7 @@ sidebar:
   - title: "Project Members"
     text: "Colin Pollard, Dr. Mark Minor, Jon Aston, Takara Troung, Ebsa Eshete."
   - title: "Skills Utilized"
-    text: "Original Research, Technical Writing, Embedded System Design, Mechanical Design, 3D Printing, PCB Design.
+    text: "Original Research, Technical Writing, Embedded System Design, Mechanical Design, 3D Printing, PCB Design."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
