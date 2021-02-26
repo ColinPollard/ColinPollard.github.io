@@ -2,11 +2,11 @@
 title: "Smart Helmet"
 excerpt: "Soft robotics, 3D position sensing, embedded system design, and more!"
 header:
-  image: /assets/images/smartHelmetSplash.png
-  teaser: assets/images/SmartHelmetSplash.png
+  image: /assets/images/SmartHelmetSplash.png
+  teaser: /assets/images/SmartHelmetSplash.png
 sidebar:
   - title: "Category"
-    image: http://placehold.it/350x250
+    image: /assets/images/BladderCutaway.png
     image_alt: "logo"
     text: "NSF REU Research Project, Senior EE and CE Thesis."
   - title: "Project Members"
