@@ -40,6 +40,10 @@ For more technical details, see the final report document below, and the reposit
 
 ---
 
+**3D Files**
+
+The entirety of the mechanical design was designed in OnShape prior to assembly. This project was a particularly fun design to make as it a lot of design freedom, and many parts that had to mesh together. The files are available at: https://cad.onshape.com/documents/e912a39233c946f65e0882cb/w/abfa888f53d0ee6276b1eb63/e/f2232cc595704ea3229360c0
+
 **Next Steps**
 
 The project was a great success, especially as a school project. Moving into the future, I would like to port the entire game logic onto the microcontroller to eliminate the need for an expensive FPGA dev kit. I would also like to embed the mechanical design into a coffee table like the original inspiration of the project.
