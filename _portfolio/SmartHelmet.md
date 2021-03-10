@@ -13,7 +13,7 @@ sidebar:
     text: "Colin Pollard, Dr. Mark Minor, Jon Aston, Takara Troung, Ebsa Eshete."
   - title: "Skills Utilized"
     text: "Original Research, Technical Writing, Embedded System Design, Mechanical Design, 3D Printing, PCB Design."
-gallery:
+gallery1:
   - url: /assets/images/HelmetCutaway.png
     image_path: assets/images/HelmetCutaway.png
     alt: "Helmet Cutaway"
@@ -37,7 +37,7 @@ The Smart Helmet project is a research initiative under the University of Utah's
   <li>A PCB is embedded into the base of each bladder and senses the position of a magnet in the top of the bladder, and the pressure inside the chamber.</li>
   <li>A machine learning algorithm then fuses the 1D hall effect sensor data to generate a 3D estimation of the bladder state. This then can feed an FEA algorithm to estimate force.</li>
 </ul>
-{% include gallery caption="Helmet Cutaway and Bladder Cutaway" %}
+{% include gallery id="gallery1" caption="Helmet Cutaway and Bladder Cutaway" %}
 
 ---
 
