@@ -14,7 +14,7 @@ sidebar:
   - title: "Skills Utilized"
     text: "Original Research, Technical Writing, Embedded System Design, Mechanical Design, 3D Printing, PCB Design."
 gallery:
-    id: "Gallery1"
+  id: "Gallery1"
   - url: /assets/images/HelmetCutaway.png
     image_path: assets/images/HelmetCutaway.png
     alt: "Helmet Cutaway"
