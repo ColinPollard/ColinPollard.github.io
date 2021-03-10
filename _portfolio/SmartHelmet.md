@@ -20,6 +20,25 @@ gallery1:
   - url: /assets/images/BladderCutaway.png
     image_path: assets/images/NormalizedBladderCutaway.png
     alt: "Bladder Cutaway"
+gallery2:
+  - url: /assets/images/SmartHelmet_10Circle.jpg
+    image_path: assets/images/SmartHelmet_10Circle.jpg
+    alt: "10 Sensor Circle"
+  - url: /assets/images/SmartHelmet_AmplifierOptimization.jpg
+    image_path: assets/images/SmartHelmet_AmplifierOptimization.jpg
+    alt: "Flexible Amplifier Board"
+  - url: /assets/images/SmartHelmet_Penny.jpg
+    image_path: assets/images/SmartHelmet_Penny.jpg
+    alt: "Assortment of Sensor Boards"
+  - url: /assets/images/SmartHelmet_Single.jpg
+    image_path: assets/images/SmartHelmet_Single.jpg
+    alt: "Single Sensor Board"
+  - url: /assets/images/SmartHelmet_ConnectedOptimization.jpg
+    image_path: assets/images/SmartHelmet_ConnectedOptimization.jpg
+    alt: "Connected Single Sensors Through Aggregation"
+  - url: /assets/images/SmartHelmet_Aggregation.jpg
+    image_path: assets/images/SmartHelmet_Aggregation.jpg
+    alt: "Aggregation Board"
 ---
 
 ---
@@ -72,6 +91,7 @@ In order to examine the effects of varying hall sensor array positioning, amplif
 - Another set of these consisted of hall ensors arrayed in different known patterns from five sensors up to ten sensors. 
 - Finally, I created single sensor and double sensor boards that could be mounted in large areas that a single board could not economically cover. These connected through an aggregation board, and to the amplifier.
 - All boards were panelized by myself into a single 10x10cm file that could be manufactured extremely cheaply.
+{% include gallery id="gallery2" caption="Sensor Optimization Hardware" %}
 
 ---
 
