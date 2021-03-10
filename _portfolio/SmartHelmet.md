@@ -65,6 +65,16 @@ For the electrical engineering portion of the project, milestone 1 included the 
 
 ---
 
+**Sensor Optimization Test Hardware**
+
+In order to examine the effects of varying hall sensor array positioning, amplification, and magnet types, I created a series of circuit boards. 
+- One of these was an amplifier, that had selectable differential voltage sources, and 10 channels of filtered amplification available. 
+- Another set of these consisted of hall ensors arrayed in different known patterns from five sensors up to ten sensors. 
+- Finally, I created single sensor and double sensor boards that could be mounted in large areas that a single board could not economically cover. These connected through an aggregation board, and to the amplifier.
+- All boards were panelized by myself into a single 10x10cm file that could be manufactured extremely cheaply.
+
+---
+
 **EE Milestone 2**
 
 Milestone 2 focused on developing hardware for integration testing in bladders. By comparison, milestone 1 was conducted almost exclusively on a test bench instead of in silicon. To see a presentation on these achievements, see the video below.
