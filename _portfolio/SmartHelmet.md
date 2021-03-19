@@ -102,6 +102,14 @@ Milestone 2 focused on developing hardware for integration testing in bladders. 
 
 ---
 
+
+**EE Milestone 3**
+
+Milestone 3 focused on the manufacturing and assembly of the integration test hardware designed in milestone 2. It also focuses on some of the failures encountered, and subsequent fixes.
+{% include video id="1P_vAzE8uhfP7MZ6PLJVDklsgqOOlULIQ" provider="google-drive" %}
+
+---
+
 **Next Steps & Timetable**
 
 - February to March '21: Assemble and test embedded sensor test bed
