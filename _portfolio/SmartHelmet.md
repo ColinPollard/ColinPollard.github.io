@@ -110,9 +110,15 @@ Milestone 3 focused on the manufacturing and assembly of the integration test ha
 
 ---
 
+**CE Hardware Prototype**
+
+The computer engineering portion of this project is focused on the microcontroller development and integration with the existing sensor hardware. The initial prototype will consist of integrating an existing MCU with a development ADC board. This analog to digital converter will be interfaced with the hardware shown in EE Milestone 3, and functionality of the sensor suite can be demonstrated using an embedded system.
+
+---
+
 **Next Steps & Timetable**
 
-- February to March '21: Assemble and test embedded sensor test bed
+- ~~February to March '21: Assemble and test embedded sensor test bed~~
 - April to May '21: Evaluate accuracy of embedded system, estimate forces using FEA in real time
 - Summer '21: Design final hardware with MCU system in bladder
 
